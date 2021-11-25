@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Auteur:
-Tijn (vervangen door jouw naam)
+Tijn Neve
 
 #### Je startniveau:
-Blauw (kies uit zwart, rood óf blauw)
+Blauw
 
 #### Je focus:
-surface plane (kies uit responsive óf surface plane)
+surface plane
  
 </details>
 
@@ -40,11 +40,11 @@ https://mocomuseum.nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/mocomuseum.nl_.png" width="375px" alt="eerste pagina moco">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/mocomuseum.nl_locations_.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
